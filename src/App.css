@@ -137,3 +137,10 @@
   font-size: 23px;
 }
 
+.ftr:hover {
+  text-decoration: underline;
+}
+
+.guru{
+  padding-left: 90px;
+}
